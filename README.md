@@ -7,14 +7,14 @@ The main survey data were collected in the Autumn of 2019 by UAB Eurotela. The s
 
 Datasets and questionnaires:
 
-1.1. [The main survey dataset, 10% random sample, English metadata, .sav data format](../blob/main/Emigration_survey_fraction_20220719_en.sav)
+1.1. [The main survey dataset, 10% random sample, English metadata, .sav data format](https://github.com/rimraul/Non-economic-emigration-from-Lithuania-survey-data/blob/main/Emigration_survey_fraction_20220719_en.sav)
 
-1.2. [The main survey dataset, 10% random sample, English metadata, .dta data format](../blob/main/Emigration_survey_fraction_20220719_en.dta)
+1.2. [The main survey dataset, 10% random sample, English metadata, .dta data format](https://github.com/rimraul/Non-economic-emigration-from-Lithuania-survey-data/blob/main/Emigration_survey_fraction_20220719_en.dta)
 
-1.3. [The main survey questionnaire, in Lithuanian, .pdf format](../blob/main/Emigration_survey_questionnaire_ltu_20190606.pdf)
+1.3. [The main survey questionnaire, in Lithuanian, .pdf format](https://github.com/rimraul/Non-economic-emigration-from-Lithuania-survey-data/blob/main/Emigration_survey_questionnaire_ltu_20190606.pdf)
 
-2.1. [Auxiliary survey dataset, 10% random sample, Lithuanian metadata, .sav data format](../blob/main/Emigration_secondary_survey_fraction_lt.sav)
+2.1. [Auxiliary survey dataset, 10% random sample, Lithuanian metadata, .sav data format](https://github.com/rimraul/Non-economic-emigration-from-Lithuania-survey-data/blob/main/Emigration_secondary_survey_fraction_lt.sav)
 
-2.2. [Auxiliary survey dataset, 10% random sample, Lithuanian metadata, .dta data format](../blob/main/Emigration_secondary_survey_fraction_lt.dta)
+2.2. [Auxiliary survey dataset, 10% random sample, Lithuanian metadata, .dta data format](https://github.com/rimraul/Non-economic-emigration-from-Lithuania-survey-data/blob/main/Emigration_secondary_survey_fraction_lt.dta)
 
-2.3. [Auxiliary survey questionnaire, in Lithuanian, .pdf format](../blob/main/Emigration_secondary_survey_questionnaire_lt.pdf)
+2.3. [Auxiliary survey questionnaire, in Lithuanian, .pdf format](https://github.com/rimraul/Non-economic-emigration-from-Lithuania-survey-data/blob/main/Emigration_secondary_survey_questionnaire_lt.pdf)
